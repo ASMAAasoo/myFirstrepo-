@@ -6,3 +6,5 @@ As a first-year web development student, I am excited to blend my technical skil
 I believe in the power of sharing knowledge and experiences, which drives me to connect with others and share my training journey. 
 Whether on the court, field, or in the gym, I thrive on teamwork and the joy of pushing my limits. 
 I'm looking forward to inspiring and being inspired by fellow sports enthusiasts!
+
+This is my first repository created as part of a GitHub learning task
